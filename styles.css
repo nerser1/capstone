@@ -134,7 +134,7 @@ a {
   display: flex;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
   .title {
     display: grid;
     width: 100%;
